@@ -1,0 +1,8 @@
+resource_id,title,concept_id
+r1,Intro to Python Variables,c1
+r2,Understanding If-Else Statements,c2
+r3,Loops in Depth,c2
+r4,Writing Your First Function,c3
+r5,Classes and Objects Guide,c4
+r6,Linked Lists Visualized,c5
+r7,Sorting Algorithms Explained,c6

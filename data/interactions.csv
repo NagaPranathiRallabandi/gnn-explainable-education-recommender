@@ -1,0 +1,13 @@
+learner_id,resource_id,status,timestamp
+l1,r1,completed,2024-01-01
+l1,r2,completed,2024-01-02
+l1,r3,completed,2024-01-03
+l1,r4,completed,2024-01-04
+l1,r5,attempted,2024-01-05
+l2,r5,failed,2024-01-05
+l3,r1,completed,2023-12-01
+l3,r2,completed,2023-12-02
+l3,r3,completed,2023-12-03
+l3,r4,completed,2023-12-04
+l3,r5,completed,2023-12-05
+l3,r6,completed,2023-12-06
